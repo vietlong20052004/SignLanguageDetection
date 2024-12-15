@@ -20,7 +20,7 @@ This repository attempts to apply the YOLO for hand detection training with the 
 The dataset is taken from the Hand Detection Dataset ( VOC / YOLO format ) on kaggle. Link: https://www.kaggle.com/datasets/nomihsa965/hand-detection-dataset-vocyolo-format
 ## 2. YOLOv8 model
 The model used is YOLOv8 imported from the ultralytics library. Here is the architecture of the model: 
-![f47c44c3-bb16-4d6f-89b2-91749a016365](https://github.com/user-attachments/assets/997f91da-b782-4a1a-89cf-4975cd36bf16)
+![14f43432-fea6-4660-b5dd-d68f68cd2162](https://github.com/user-attachments/assets/d0502c1c-de29-48f4-ac0e-e908bb2cb906)
 
 # YOLO + Xception Workflow
 This repository attempts to apply the YOLO for hand detection and then crop the image of the hand and feed it to the Xception model for classification. 
