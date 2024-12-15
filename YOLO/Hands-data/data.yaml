@@ -1,0 +1,5 @@
+train: /kaggle/input/hands-data/archive/train/images
+val: /kaggle/input/hands-data/archive/valid/images
+
+nc: 1
+names: ['hand']
