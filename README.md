@@ -11,9 +11,5 @@ First, you need to run this command:
 ```
 pip install -r requirement.txt
 ```
-If you are interested in re-training the model, then run this command
-```
-pip install -r training_setup.txt
-```
-Then, proceed to run file infer.py if you are NOT interested in re-training the model. This loads the checkpoint (finalXception.pth), then feeds an image in the test set for it to predict.
+Proceed to run file infer.py if you are NOT interested in re-training the model. This loads the checkpoint (finalXception.pth), then feeds an image in the test set for it to predict.
 However, if there is an error while running infer.py, then please use this kaggle link: https://www.kaggle.com/code/vinhsokaggle/dl-infer
